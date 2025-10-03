@@ -31,7 +31,7 @@ CREATE TABLE IF NOT EXISTS spotify_users (
     offline_listening INTEGER, -- 0/1
     is_churned INTEGER         -- 0/1
 );
-
+```
 ---
 
 ## 📓 Pasos para ejecutar el dashboard 
